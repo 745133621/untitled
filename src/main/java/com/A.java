@@ -5,6 +5,8 @@ import jdk.nashorn.internal.objects.annotations.Setter;
 //@Data
 public class A {
 
+    private String userId;
+
     private String name;
 
     public static void main(String[] args) {
